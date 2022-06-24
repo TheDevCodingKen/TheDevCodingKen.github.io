@@ -1,6 +1,6 @@
 # Welcome to My Developer Projects on GitHub
 
-## Website Programming Utilizing JavaScript
+## Client-Side Website Programming Utilizing JavaScript
 
 Objectives
 - [x]&nbsp;&nbsp;Gain an understanding of the fundamentals of programming and how web pages are built.
