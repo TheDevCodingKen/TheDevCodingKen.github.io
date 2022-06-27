@@ -22,5 +22,6 @@ Objectives
 | 👋🏾 [Hello HTTP Server](https://github.com/TheDevCodingKen/hello-http-server)
 | 💻 [Express Server](https://github.com/TheDevCodingKen/express-server)
 | 🕵🏾‍♂️ [Movie Data Finder](https://github.com/TheDevCodingKen/movie-data-finder)
+| ㏒ [Log All The Things](https://github.com/TheDevCodingKen/log-all-the-things)
 
 ### Come back soon for more!
