@@ -15,8 +15,8 @@ Objectives
 ## Server-side Website Programming Utilizing JavaScript
 
 Objectives
-- [x]&nbsp;&nbsp;Become familiar with back end technologies Node and Express.
-- [x]&nbsp;&nbsp;Build a server.
+- [x]&nbsp;&nbsp;Become familiar with back-end technologies, Node.js and Express.js.
+- [x]&nbsp;&nbsp;Build a web server.
 - [x]&nbsp;&nbsp;Prepare to spin up a website that will be publicly accessible on the web.
 
 | 👋🏾 [Hello HTTP Server](https://github.com/TheDevCodingKen/hello-http-server)
@@ -24,4 +24,4 @@ Objectives
 | 🕵🏾‍♂️ [Movie Data Finder](https://github.com/TheDevCodingKen/movie-data-finder)
 | ㏒ [Log All The Things](https://github.com/TheDevCodingKen/log-all-the-things)
 
-### Come back soon for more!
+### Come back soon for more! - 👨🏾‍💻 [TheDevCodingKen](https://github.com/TheDevCodingKen)
