@@ -25,4 +25,5 @@ Objectives
 | ㏒ [Log All The Things](https://github.com/TheDevCodingKen/log-all-the-things)
 | 📮 [Very Simple To-Do App API](https://github.com/TheDevCodingKen/express-vstda-api)
 
-### Come back soon for more! - 👨🏾‍💻 [TheDevCodingKen](https://github.com/TheDevCodingKen)
+### Come back soon for more! 
+👨🏾‍💻 [TheDevCodingKen](https://github.com/TheDevCodingKen)
