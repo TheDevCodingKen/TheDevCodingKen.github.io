@@ -14,6 +14,17 @@ Objectives
 |[Change Calculator](https://thedevcodingken.github.io/my-change-calculator/)|[💰](https://github.com/TheDevCodingKen/my-change-calculator)| 
 |[San Diego Top Spots](https://thedevcodingken.github.io/san-diego-top-spots/)|[🗺](https://github.com/TheDevCodingKen/san-diego-top-spots)|
 
+## Client-Side Website Programming Utilizing React
+
+- [x]&nbsp;&nbsp;Become comfortable with JavaScript syntax, ES6+.
+- [x]&nbsp;&nbsp;Understand Model-View-Controller architecture.
+- [x]&nbsp;&nbsp;Familiarize myself with the popular front-end library, React.
+- [x]&nbsp;&nbsp;Build more advanced websites.
+
+| Project Title | Repository |
+|:---------:|:---------:|
+|React Change Calculator|[💰](https://github.com/TheDevCodingKen/react-change-calculator)| 
+
 ## Server-side Programming Utilizing JavaScript
 
 Objectives
