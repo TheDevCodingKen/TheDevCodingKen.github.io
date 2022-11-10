@@ -24,6 +24,7 @@ Objectives
 | Project Title | Repository |
 |:---------:|:---------:|
 |React Change Calculator|[💰](https://github.com/TheDevCodingKen/react-change-calculator)| 
+|React San Diego Top Spots|[🗺](https://github.com/TheDevCodingKen/react-san-diego-top-spots)|
 
 ## Server-side Programming Utilizing JavaScript
 
